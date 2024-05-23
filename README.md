@@ -1,6 +1,6 @@
 # 🗺 Kurtis Crowe's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Welcome to my data portfolio! Here, I document a summary of some of my projects in the data field. 
 
 ## 📚 Table of Contents
 - [Data Engineering](#data-engineering)
@@ -22,7 +22,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | 💰 [Consumer Sales Analysis](https://github.com/kurtis-crowe/Consumer-Sales-Analysis) | Database creation, data analysis, data cleaning, data transformation | This repo serves as the solution for DTSC660: Data and Database Management with SQL class at Eastern University. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
-| 🏦 [Banking Database Design](https://github.com/katiehuangx/kurtis-crowe/Banking-Database-Design) | Database creation, data analysis, data cleaning, data transformation | Created a banking database, migrated data from a CSV utilizing PostgreSQL to answer business questions related to customer banking and financial data |  
+| 🏦 [Banking Database Design and analysis](https://github.com/katiehuangx/kurtis-crowe/Banking-Database-Design) | Database creation, data analysis, data cleaning, data transformation | Created a banking database, migrated data from a CSV utilizing PostgreSQL to answer business questions related to customer banking and financial data |  
 
 
 ***
