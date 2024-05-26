@@ -30,10 +30,10 @@ Welcome to my data portfolio! Here, I document a summary of some of my projects 
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 👩🏻‍💻 [Decision Tree Grid Search](https://github.com/kurtis-crowe/Decision-Tree-Grid-Search) | Machine Learning | Created a Decision Tree Classifier model and hyperparameter tuning by performing a grid search. | numpy, sklearn, | 
-| 📺 [Tree Based Regression Analysis](https://github.com/kurtis-crowe/Tree-Based-Regression-for-2D-Linear-Data) |   Machine Learning | Hands on experience with tree-based regression methods by fitting three models (Gradient-Boosted Regression Tree, Random Forest and Decision) | pandas, matplotlib, numpy, sklearn |   
-| ⛽️ [Tree Based Regression Methods for 3D Sinusoidal Data](https://github.com/kurtis-crowe/Exploring-Tree-Based-Regression-Methods-for-3D-Sinusoidal-Data) | Machine Learning | fit a Gradient-Boosted Regression Tree, a Random Forest, and a Decision Tree to a noisy 3D sinusoidal data set and manually adjust hyperparameter values |  pandas, matplotlib, numpy, sklearn |   
-| 🍷 [Artificial Neural Networks for Regression](https://github.com/kurtis-crowe/Exploring-3D-Sinusoidal-Data-using-Artificial-Neural-Networks) | Machine Learning | Created and fit a neural network to noisy 3D sinusoidal data using a Sequential model. | pandas, matplotlib, numpy, os, sklearn, mpl_toolkits, keras, tensorflow |   
+| 🤖 [Decision Tree Grid Search](https://github.com/kurtis-crowe/Decision-Tree-Grid-Search) | Machine Learning | Created a Decision Tree Classifier model and hyperparameter tuning by performing a grid search. | numpy, sklearn, | 
+| 🤖 [Tree Based Regression Analysis](https://github.com/kurtis-crowe/Tree-Based-Regression-for-2D-Linear-Data) |   Machine Learning | Hands on experience with tree-based regression methods by fitting three models (Gradient-Boosted Regression Tree, Random Forest and Decision) | pandas, matplotlib, numpy, sklearn |   
+| 🤖 [Tree Based Regression Methods for 3D Sinusoidal Data](https://github.com/kurtis-crowe/Exploring-Tree-Based-Regression-Methods-for-3D-Sinusoidal-Data) | Machine Learning | fit a Gradient-Boosted Regression Tree, a Random Forest, and a Decision Tree to a noisy 3D sinusoidal data set and manually adjust hyperparameter values |  pandas, matplotlib, numpy, sklearn |   
+| 🤖 [Artificial Neural Networks for Regression](https://github.com/kurtis-crowe/Exploring-3D-Sinusoidal-Data-using-Artificial-Neural-Networks) | Machine Learning | Created and fit a neural network to noisy 3D sinusoidal data using a Sequential model. | pandas, matplotlib, numpy, os, sklearn, mpl_toolkits, keras, tensorflow |   
 
 
 ***
