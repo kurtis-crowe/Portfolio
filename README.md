@@ -42,7 +42,7 @@ Welcome to my data portfolio! Here, I document a summary of some of my projects 
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 [Regional Sales Analysis](https://github.com/kurtis-crowe/tableau) | Cleansed and transformed data on privately-owned companies (regional supermarkets). Visualised key insights using Tableau, including profit by state map, profit ranking by region, scatterplot to determine correlation between discount percentage and sales, and a line graph for quarterly profit.
+| 💲 [Regional Sales Analysis](https://github.com/kurtis-crowe/tableau) | Cleansed and transformed data on privately-owned companies (regional supermarkets). Visualised key insights using Tableau, including profit by state map, profit ranking by region, scatterplot to determine correlation between discount percentage and sales, and a line graph for quarterly profit.
 
 
 ***
