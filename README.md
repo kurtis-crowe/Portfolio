@@ -4,6 +4,7 @@ Welcome to my data portfolio! Here, I document a summary of some of my projects 
 
 ## 📚 Table of Contents
 - [Machine Learning](#Machine-Learning)
+- [Python](#python)
 - [SQL](#sql)
 - [Tableau](#tableau)
 - [R](#R)
@@ -15,7 +16,13 @@ Welcome to my data portfolio! Here, I document a summary of some of my projects 
 | 🤖 [Decision Tree Grid Search](https://github.com/kurtis-crowe/Decision-Tree-Grid-Search) | Machine Learning | Created a Decision Tree Classifier model and hyperparameter tuning by performing a grid search. | numpy, sklearn, | 
 | 🤖 [Tree Based Regression Analysis](https://github.com/kurtis-crowe/Tree-Based-Regression-for-2D-Linear-Data) |   Machine Learning | Hands on experience with tree-based regression methods by fitting three models (Gradient-Boosted Regression Tree, Random Forest and Decision) | pandas, matplotlib, numpy, sklearn |   
 | 🤖 [Tree Based Regression Methods for 3D Sinusoidal Data](https://github.com/kurtis-crowe/Exploring-Tree-Based-Regression-Methods-for-3D-Sinusoidal-Data) | Machine Learning | Fit a Gradient-Boosted Regression Tree, a Random Forest, and a Decision Tree to a noisy 3D sinusoidal data set and manually adjust hyperparameter values. |  pandas, matplotlib, numpy, sklearn |   
-| 🤖 [Artificial Neural Networks for Regression](https://github.com/kurtis-crowe/Exploring-3D-Sinusoidal-Data-using-Artificial-Neural-Networks) | Machine Learning | Created and fit a neural network to noisy 3D sinusoidal data using a Sequential model. | pandas, matplotlib, numpy, os, sklearn, mpl_toolkits, keras, tensorflow |   
+| 🤖 [Artificial Neural Networks for Regression](https://github.com/kurtis-crowe/Exploring-3D-Sinusoidal-Data-using-Artificial-Neural-Networks) | Machine Learning | Created and fit a neural network to noisy 3D sinusoidal data using a Sequential model. | pandas, matplotlib, numpy, os, sklearn, mpl_toolkits, keras, tensorflow |
+
+# Python
+
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+| 🤖 [Slack to Splunk Alert Automation](https://github.com/kurtis-crowe/Slack-alert-automation/tree/main) | Real World App, API's, Automation | Program created with a colleague to help automate the Splunk alarms. | json, sys, dotenv, os, slack_bolt | 
 
 # SQL
 
